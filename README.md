@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adhikars11
-- 👀 I’m interested in Economics, Data Science, and Public Policy. 
+- 👀 I’m interested in Environmental macronomics, data science, and public policy. 
 - 🌱 I’m currently learning Python, Spatial Data Analysis, and building R function pacakges.
 - 💞️ I’m looking to collaborate on R package development and Python projects. 
 - 📫 Email me at shadhikari@ucdavis.edu
